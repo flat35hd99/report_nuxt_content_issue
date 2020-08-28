@@ -1,0 +1,18 @@
+{
+  "name": "contentDenug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "export": "nuxt export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxt/content": "^1.7.0",
+    "nuxt": "^2.14.4"
+  }
+}
