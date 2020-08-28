@@ -1,0 +1,1 @@
+# report_nuxt_content_issue
